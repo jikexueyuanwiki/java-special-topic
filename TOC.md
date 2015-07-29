@@ -1,5 +1,5 @@
 - J2SE 基础  
-    - [搭建 Java 开发环境](environment.md)
+    - [搭建 Java 开发环境（小明）](environment.md)
 	- [Java 基本概念](basic-concept.md)
 	- [面向对象编程](OOP.md)
 	- [关键字](keyword.md)
